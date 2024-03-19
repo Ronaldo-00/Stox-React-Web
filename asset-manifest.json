@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Stox-React-Web/static/css/main.e0e5c4c6.css",
+    "main.js": "/Stox-React-Web/static/js/main.13051b00.js",
+    "static/media/tradeImg1.jpg": "/Stox-React-Web/static/media/tradeImg1.617a076e1fd0d70b1ec4.jpg",
+    "static/media/investImg2.jpg": "/Stox-React-Web/static/media/investImg2.16eb06b64bcbb7b90323.jpg",
+    "static/media/investImg1.jpg": "/Stox-React-Web/static/media/investImg1.e6bd3ef1d51fc5a7155d.jpg",
+    "static/media/tradeImg3.jpg": "/Stox-React-Web/static/media/tradeImg3.3d10ade08314a41d946d.jpg",
+    "static/media/tradeImg2.jpg": "/Stox-React-Web/static/media/tradeImg2.a3e640f605f7818dc959.jpg",
+    "static/media/investImg3.jpg": "/Stox-React-Web/static/media/investImg3.b9c94d6657d7a69cb625.jpg",
+    "static/media/img3.jpg": "/Stox-React-Web/static/media/img3.89831853c0ba67ad225d.jpg",
+    "static/media/img1.jpg": "/Stox-React-Web/static/media/img1.f1718a1cbc8f4418a475.jpg",
+    "static/media/img2.jpg": "/Stox-React-Web/static/media/img2.60816da0528f725537f0.jpg",
+    "static/media/fund.png": "/Stox-React-Web/static/media/fund.4caf867a4974867d3de3.png",
+    "static/media/app-img.png": "/Stox-React-Web/static/media/app-img.0de6c600fb31ba2db0d5.png",
+    "static/media/web.png": "/Stox-React-Web/static/media/web.7540516e481c5e051e5a.png",
+    "static/media/IPOs.png": "/Stox-React-Web/static/media/IPOs.c60856ee421431186748.png",
+    "static/media/plans.png": "/Stox-React-Web/static/media/plans.953a5a343fe6d184c4ac.png",
+    "static/media/online.png": "/Stox-React-Web/static/media/online.9e44543915a189b6ee26.png",
+    "static/media/coin.png": "/Stox-React-Web/static/media/coin.fad175d6d4b57a8c079f.png",
+    "static/media/stocks.png": "/Stox-React-Web/static/media/stocks.d4eeb29e104469b102f7.png",
+    "static/media/search.png": "/Stox-React-Web/static/media/search.f16b05e8f57198250c3c.png",
+    "static/media/bitcoin.png": "/Stox-React-Web/static/media/bitcoin.c0678c5c2d40b59efcdb.png",
+    "static/media/video-course1.png": "/Stox-React-Web/static/media/video-course1.a8e8c815004ac47c6ca2.png",
+    "static/media/g-ply-icon.svg": "/Stox-React-Web/static/media/g-ply-icon.9c07f02ee033f1ca8f071d34480a961b.svg",
+    "static/media/ios_icon.svg": "/Stox-React-Web/static/media/ios_icon.a4dfc7034ee41e1212b637b0c5dc546e.svg",
+    "index.html": "/Stox-React-Web/index.html",
+    "main.e0e5c4c6.css.map": "/Stox-React-Web/static/css/main.e0e5c4c6.css.map",
+    "main.13051b00.js.map": "/Stox-React-Web/static/js/main.13051b00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e5c4c6.css",
+    "static/js/main.13051b00.js"
+  ]
+}
