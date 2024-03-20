@@ -1,6 +1,6 @@
 # Rise Stox Website
 
-A website for tracking and analyzing stock market data.
+A website for tracking and analyzing stock market data. To know about the Top rated Funds and Top 30 Actively traded Stocks details.
 
 ## Table of Contents
 
@@ -13,11 +13,12 @@ A website for tracking and analyzing stock market data.
 
 ## About
 
-The Stock Market Website provides users with real-time data and analysis tools for monitoring stock prices, managing portfolios, and making informed investment decisions.
+- The Stock Market Website provides users with real-time data and analysis tools for monitoring stock prices, managing portfolios, and making informed investment decisions.
+- And this website for help the traders and investors to know about the ideas.
 
 ## Demo
 
-Include a link to a live demo of your website if available.
+The site is live at  https://ronaldo-00.github.io/Stox-React-Web/
 
 ## Features
 - Get a demat account
